@@ -1,0 +1,22 @@
+body
+{
+   text-align:center;
+    background-color: darkgreen;
+    cursor: pointer;
+}
+#imgOne{
+ width:400px;
+ height: 400px;
+}
+#imgTwo{
+    width:400px;
+    height:400px;
+}
+#imgThree{
+    width:400px;
+    height:400px;
+}
+#imgFour{
+    width:400px;
+    height:400px;
+}
